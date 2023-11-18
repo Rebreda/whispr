@@ -7,3 +7,5 @@ install.sh
 venv
 _build
 po/*.mo
+whisper-venv
+__pycache__

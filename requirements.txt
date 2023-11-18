@@ -1,2 +1,5 @@
-pulsectl == 22.3.2
-dbus-python == 1.2.18
+dbus-python==1.2.18
+meson==1.2.3
+pulsectl==22.3.2
+pycairo==1.25.1
+PyGObject==3.46.0
